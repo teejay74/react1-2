@@ -1,4 +1,4 @@
-+ [Ссылка на проект](https://teejay74.github.io/react1_2/)
++ [Ссылка на проект](https://teejay74.github.io/react1-2/)
 
 # Getting Started with Create React App
 
